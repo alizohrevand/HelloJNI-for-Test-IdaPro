@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/alizohrevand/Documents/ProgramingSdk/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/pre-dexed/arm7/debug/support-annotations-23.4.0_682564f50839ef153a764896a673e795ee6cbb92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-v4-23.4.0_e26707b0ac135a031e7e72519421c9c181f0559d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alizohrevand/Documents/ProgramingSdk/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/pre-dexed/arm7/debug/constraint-layout-solver-1.0.0-alpha7_43fa9ff13e3652d2183f57d63fc0879d3deb85a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-appcompat-v7-23.4.0_3cc4c1ac58e171baea0f4c36f6f9f36415006168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-animated-vector-drawable-23.4.0_7041c8fb5b526cd7c226d1267ca9a816a965dba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha7/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/pre-dexed/arm7/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha7_34f0ea4b20403d1710848fb0749ba8cfe7cbaddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-vector-drawable-23.4.0_066fb327e61826764c68d5d9581c7ce6175d5a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-23.4.0_ed2d63608601caba6b2cafd65d5411dbcba8310b.jar" />
+    </item>
+
+</items>

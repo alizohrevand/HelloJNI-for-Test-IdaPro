@@ -1,0 +1,3 @@
+# ninja log v5
+0	338	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	a623cc547fc9fea1
+338	415	0	/Users/alizohrevand/Desktop/Project/Android/HelloJNI/app/build/intermediates/cmake/arm7/debug/obj/armeabi-v7a/libhello-jni.so	fbede1ffd41a4602
