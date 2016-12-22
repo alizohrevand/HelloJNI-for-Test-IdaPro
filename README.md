@@ -1,3 +1,4 @@
+این فایل ادیت شد و تنها یک دکمه به آن اضافه گشت تا پس از فشردن کلید پیغام نمایش داده شود.
 Hello JNI
 =========
 Hello JNI is an Android sample that uses JNI to call C code from a Android Java Activity.
